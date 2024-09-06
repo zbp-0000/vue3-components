@@ -4,10 +4,8 @@
 
 <template>
   <div>
-组件
+    <z-icon :size="20" :color="'red'">hello</z-icon>
   </div>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
